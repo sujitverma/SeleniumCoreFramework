@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><flight>
+<number arrival_time="11:21pm" departure_time="10:20pm">AA124</number>
+<passengers>
+	<person age="32" gender="female" position="window" seat="A12">
+  		<firstname>Anne</firstname>
+  		<lastname>Smith</lastname>
+  		<bags>1</bags>
+	</person>
+	<person age="32" gender="male" position="window" seat="A14">
+  		<firstname>Mark</firstname>
+  		<lastname>Jones</lastname>
+  		<bags>1</bags>
+	</person>
+	<person age="32" gender="male" position="window" seat="A16">
+  		<firstname>Steve</firstname>
+  		<lastname>Turner</lastname>
+  		<bags>2</bags>
+	</person>
+</passengers>
+</flight>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<passengers>
+	<person gender="female">
+  		<firstname>Anna</firstname>
+  		<lastname>Smith</lastname>
+	</person>
+	<person gender="male">
+  		<firstname>Mark</firstname>
+  		<lastname>Jones</lastname>
+	</person>
+</passengers>

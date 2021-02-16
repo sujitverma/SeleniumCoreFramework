@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample TestNG Suite File" verbose="1">
+	<test name="Sample Test">
+		<groups>
+			<run>
+				<include name="ALM"></include>
+			</run>
+		</groups>
+		<packages>
+				<package name="igt.test.automation.alm.*" />
+				<package name="igt.test.automation.util.*" />
+				<package name="igt.test.automation.driver.*" />
+				<package name="igt.test.automation.test" />
+		</packages>
+	</test>
+</suite>
