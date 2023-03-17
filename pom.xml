@@ -6,10 +6,9 @@
     <packaging>jar</packaging>
     <name>Test Automation Framework</name>
     <description>
-        IGT Test Framework that handles Desktop, Web, mobile and APIs using Java
+        Test Framework that handles Desktop, Web, mobile and APIs using Java
     </description>
     <url>http://maven.apache.org</url>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
