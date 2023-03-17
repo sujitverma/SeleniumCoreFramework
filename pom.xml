@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <name>Test Automation Framework</name>
     <description>
-        Test Framework that handles Desktop, Web, mobile and APIs using Java
+        Framework that handles Desktop, Web, mobile and APIs using Java
     </description>
     <url>http://maven.apache.org</url>
     <properties>
