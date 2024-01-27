@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <selenium.version>4.17.0</selenium.version>
-        <selenium.server.version>4.17.0</selenium.server.version>
+        <selenium.server.version>3.141.59</selenium.server.version>
         <junit.version>4.11</junit.version>
         <testng.version>7.0.0</testng.version>
         <appium.version>7.1.0</appium.version>
